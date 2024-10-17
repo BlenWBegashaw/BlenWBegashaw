@@ -18,14 +18,6 @@
    I'm diving into AI-driven anomaly detection in cybersecurity. 
 </p>
 
-<h3 align="center">Most Used Languages 💻</h3>
-<p align="center">
-  <a href="https://github.com/BlenWBegashaw" target="_blank">
-    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
-    <img align="center" src="assets/js.png" alt="JavaScript" height="65" width="65" />
-    <img align="center" src="assets/html.png" alt="HTML" height="65" width="65" />
-  </a>
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlenWBegashaw&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
