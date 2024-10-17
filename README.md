@@ -30,7 +30,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/BlenBegashaw" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="LinkedIn" height="60" width="60" />
+    <img align="center" src="99E7DBBA-6DBD-4F47-AB3C-C19667A8F5CE_4_5005_c.jpeg" alt="LinkedIn" height="60" width="60" />
   </a>
 </p>
 
