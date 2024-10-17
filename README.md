@@ -29,7 +29,7 @@
     <img align="center" src="15556EFA-A58E-4D11-87B5-C02C49856506_4_5005_c.jpeg" alt="Email" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/BlenBegashaw" target="_blank">
+  <a href="https://www.linkedin.com/in/blen-begashaw-a8a2a4211" target="_blank">
     <img align="center" src="99E7DBBA-6DBD-4F47-AB3C-C19667A8F5CE_4_5005_c.jpeg" alt="LinkedIn" height="60" width="60" />
   </a>
 </p>
