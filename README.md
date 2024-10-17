@@ -26,7 +26,7 @@
 <h3 align="center">Let’s Connect! 📬</h3>
 <p align="center">
   <a href="mailto:blenbegashaw@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="Email" height="50" width="55" />
+    <img align="center" src="15556EFA-A58E-4D11-87B5-C02C49856506_4_5005_c.jpeg" alt="Email" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/BlenBegashaw" target="_blank">
