@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="assets/cute_header.png" alt="Welcome to My Profile!" />
+  <img src="80D5AF3F-9DF8-4CB5-88D2-CE60AC800EA9_4_5005_c.jpeg" alt="Welcome to My Profile!" />
 </p>
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFB6C1&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi!+I'm+Blen+Begashaw;Software+Engineer+%26+Cybersecurity+Enthusiast" width="auto" height="35"/>
 </p>
 
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="80D5AF3F-9DF8-4CB5-88D2-CE60AC800EA9_4_5005_c.jpeg"/>
-</p>
 
 <h3 align="center">A Little About Me 💖</h3>
 <p align="center">
