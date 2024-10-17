@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/cute_coding.gif"/>
+  <img alt="Coding GIF" width="300" height="auto" src="80D5AF3F-9DF8-4CB5-88D2-CE60AC800EA9_4_5005_c.jpeg"/>
 </p>
 
 <h3 align="center">A Little About Me 💖</h3>
