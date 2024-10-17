@@ -9,7 +9,7 @@
 <h3 align="center">A Little About Me 💖</h3>
 <p align="center">
    ✨ I’m passionate about blending technology and creativity! <br>
-   💻 Cybersecurity, AI, and IoT are my areas of focus.<br>
+   💻 Cybersecurity, AI, and Software Engineering are my areas of focus.<br>
    🎨 When I’m not coding, I love reading, watching kdramas, and going on nature walks!
 </p>
 
