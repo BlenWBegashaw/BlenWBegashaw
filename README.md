@@ -17,8 +17,11 @@
 
 <h3 align="center">Currently Learning 📚</h3>
 <p align="center">
-   I'm diving into AI-driven anomaly detection in cybersecurity. 
+🤖 I'm diving into AI-driven anomaly detection in cybersecurity. <br>
+⚛️ I'm learning React. <br>
+☁️ I'm studying for my AWS Cloud Practitioner exam.
 </p>
+
 
 
 <p align="center">
