@@ -25,7 +25,7 @@
 
 <h3 align="center">Let’s Connect! 📬</h3>
 <p align="center">
-  <a href="mailto:blenwbegashaw@example.com" target="_blank">
+  <a href="mailto:blenbegashaw@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="Email" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
